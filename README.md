@@ -28,6 +28,19 @@ PacketReaper is a powerful and versatile MITM (Man-In-The-Middle) helper tool de
   - [netifaces](https://pypi.org/project/netifaces/)
   - [mac-vendor-lookup](https://pypi.org/project/mac-vendor-lookup/)
 
+ Install PacketReaper
+
+ ```bash
+git clone https://github.com/Ugochi56/PacketReaper.git
+cd PacketReaper
+chmod +x packetreaper.py
+./packetreaper.py
+```
+or
+```
+python3 packetreaper.py
+```
+
 Install dependencies with:
 
 ```bash
