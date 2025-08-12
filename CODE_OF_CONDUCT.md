@@ -2,7 +2,7 @@
 
 ### Our Pledge
 
-In the interest of fostering an open and welcoming environment, we pledge to make participation in this project a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, gender identity, level of experience, education, nationality, personal appearance, race, religion, or sexual identity.
+In the interest of fostering an open and welcoming environment, we pledge to make participation in this project a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, gender identity, level of experience, education, nationality, personal appearance, race, religion, or sexual identity...
 
 We also pledge to respect ethical and legal boundaries in the development and use of this tool.
 
